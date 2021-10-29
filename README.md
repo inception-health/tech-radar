@@ -1,7 +1,8 @@
 > NO CONFIDENTIAL OR SENSITIVE INFORMATION IN THIS REPO. This repo is public to make it easier to leverage the thoughtwork's tech radar tool and collaboration without needing to deal with a separate tool like google sheets.
 
+[View our tech radar.](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Finception-health%2Ftech-radar%2Fmain%2Ftech-radar.csv)
+
 # Tech Radar
-Our personal tech radar tracker.
 
 We are experimenting Thoughtworks' concept of technology radar to keep track of our technology. More details about the terminology can be found here: https://www.thoughtworks.com/radar/faq
 
