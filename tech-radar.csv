@@ -1,0 +1,8 @@
+name,ring,quadrant,isNew,description
+split.io,assess,tools,TRUE,
+honeycomb,trial,tools,TRUE,
+trunk based development,assess,techniques,TRUE,
+AWS,adopt,platforms,FALSE,
+Typescript,adopt,languages & frameworks,FALSE,
+github actions,assess,tools,TRUE,
+opentelemetry,trial,languages & frameworks,TRUE,
